@@ -12,10 +12,10 @@
 - FruitControllerを作成
 - クエリパラメータを受け取り、Mapから価格を取得して表示する
 ### 動作確認
-  - 登録されているフルーツ名を指定した場合
+  - 登録されているフルーツ名を指定した場合  
     ![img_exist.png](image/img_exist.png)  
 
 
-  - 登録されていないフルーツ名orパラメータが入力されていない場合
+  - 登録されていないフルーツ名orパラメータが入力されていない場合  
     ![img_notexist.png](image/img_notexist.png)
 
